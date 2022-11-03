@@ -1,0 +1,3 @@
+sudo su - // sudo -i
+apt-get install <name_of_packets>
+apt update // apt upgrade -y
