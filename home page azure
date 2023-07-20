@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>BDKK CORPORATION - Page d'accueil</title>
+</head>
+<body>
+    <header>
+        <h1>BDKK CORPORATION - Site de streaming</h1>
+        <nav>
+            <!-- Vous pouvez ajouter des liens vers d'autres pages de votre site ici -->
+            <a href="#">Accueil</a>
+            <a href="#">Films</a>
+            <a href="#">Séries</a>
+            <a href="#">À propos</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Films populaires</h2>
+            <!-- Ajoutez ici des vignettes ou des images représentant les films populaires -->
+            <!-- Chaque vignette/image pourrait être un lien vers la page de détails du film -->
+        </section>
+
+        <section>
+            <h2>Séries populaires</h2>
+            <!-- Ajoutez ici des vignettes ou des images représentant les séries populaires -->
+            <!-- Chaque vignette/image pourrait être un lien vers la page de détails de la série -->
+        </section>
+    </main>
+
+    <footer>
+        <p>Tous droits réservés &copy; <?php echo date("Y"); ?> BDKK CORPORATION</p>
+    </footer>
+</body>
+</html>
